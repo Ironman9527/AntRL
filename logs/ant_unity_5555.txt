@@ -1,0 +1,33 @@
+Mono path[0] = 'D:/Program Files (x86)/VScodeWorkSpace/GameEnvUnity/AntRL/AntEnv/Ant_Data/Managed'
+Mono config path = 'D:/Program Files (x86)/VScodeWorkSpace/GameEnvUnity/AntRL/AntEnv/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.1.4f1 (03270eb687c6)
+[Subsystems] Discovering subsystems at path D:/Program Files (x86)/VScodeWorkSpace/GameEnvUnity/AntRL/AntEnv/Ant_Data/UnitySubsystems
+GfxDevice: creating device client; kGfxThreadingModeSplitJobs
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 5090 (ID=0x2b85)
+    Vendor:          NVIDIA
+    VRAM:            32101 MB
+    App VRAM Budget: 31333 MB
+    Driver:          32.0.15.8142
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.070 seconds
+- Finished resetting the current domain, in  0.001 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.458600 ms
+AntZmqClient: 成功强制初始化NetMQ异步IO。
+AntZmqClient: 尝试连接到服务器: tcp://127.0.0.1:5555
+AntZmqClient: 成功连接到 tcp://127.0.0.1:5555
+AntZmqClient (BG): 实际接收QPS=0.97
