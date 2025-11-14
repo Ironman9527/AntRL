@@ -208,7 +208,9 @@ python test_ant_env.py
 
 ### 开源许可
 
-请为仓库选择开源许可证（推荐 MIT/Apache-2.0）。如未提供，将默认视为“保留所有权利”。
+本项目采用 MIT 许可协议。Copyright (c) 2025 Ironman9527
+
+详见 `LICENSE` 文件。
 
 
 ### 引用与致谢
